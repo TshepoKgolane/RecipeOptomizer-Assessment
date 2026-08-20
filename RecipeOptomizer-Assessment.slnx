@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RecipeOptomizer-Assessment/RecipeOptomizer-Assessment.csproj" />
+  <Project Path="RecipeOptomizer.Tests/RecipeOptomizer.Tests.csproj" Id="a2f2d442-4a76-4f57-a6b1-03c33fc9719c" />
+</Solution>
